@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Anna Rissinger
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a photo gallery using DOM and BOM methods.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alf08f.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Create and utilize Event Listeners.
+2. Alter the DOM using a for loop.
+3. Learn how to disable Event Listeners (deactivate buttons).
